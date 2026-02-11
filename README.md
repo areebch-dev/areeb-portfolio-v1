@@ -34,7 +34,7 @@ To run this project locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/modern-portfolio.git
+   git clone https://github.com/areebch-dev/areeb-portfolio-v1.git
 2. Open index.html in your preferred browser
   ```bash
         start index.html
